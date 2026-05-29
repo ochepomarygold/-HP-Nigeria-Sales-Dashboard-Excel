@@ -1,4 +1,4 @@
-# -HP-Nigeria-Sales-Dashboard-Excel
+# HP-Nigeria-Sales-Dashboard-Excel
 Excel dashboard analyzing sales performance, profit trends, regional contribution, and product performance across HP Nigeria sales data.
 ##  Project Objective
 
@@ -7,7 +7,7 @@ The objective of this project is to analyze HP Nigeria sales data to evaluate re
 This dashboard helps identify top-performing regions and products to support better business decisions.
 
 ### 📊 Business Questions Answered
-Which region generates the highest sales and profit?
+ Which region generates the highest sales and profit?
 Which products contribute the most sales?
 How do sales and profit trends change over time?
 Which products are the most profitable?
