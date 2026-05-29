@@ -4,8 +4,6 @@ Excel dashboard analyzing sales performance, profit trends, regional contributio
 ---
 ##  Project Objective
 
----
-
 The objective of this project is to analyze HP Nigeria sales data to evaluate regional sales performance, product profitability, and overall sales trends.
 
 This dashboard helps identify top-performing regions and products to support better business decisions.
