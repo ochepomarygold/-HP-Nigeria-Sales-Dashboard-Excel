@@ -47,7 +47,6 @@ This dashboard helps identify top-performing regions and products to support bet
 
 <img width="630" height="631" alt="HP_Nigeria_Sales_Dashboard" src="https://github.com/user-attachments/assets/89789ee4-ac6b-40a4-88b2-8a65ea823488" />
 
-<img width="630" height="631" alt="HP Nigeria Sales Dashboard" src="https://github.com/user-attachments/assets/89789ee4-ac6b-40a4-88b2-8a65ea823488" />
 
 ---
 
